@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.bg{
+    background-color: #264653;
+}
+.button-bg{
+    background-color: #E76F51;
+}
+
+/* spacing of header section  */
+.spacing{
+    margin-left: 156px;
+    margin-top: 215px;
+    margin-bottom: 241px;
+    margin-right: 69px;
+}
+.spacing-image{
+    margin-top: 155px;
+    margin-right: 183px;
+    margin-bottom: 96px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.client-img{
+    height: 149px;
+    width: 149px;
+}
